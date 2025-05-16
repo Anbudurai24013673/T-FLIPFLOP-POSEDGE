@@ -54,7 +54,8 @@ endmodule
 ![image](https://github.com/user-attachments/assets/4c40b71d-46d5-4b34-ac1f-27012a0bccab)
 Developed by: ANBUDURAI A
 
-RegisterNumber:24013673
+RegisterNumber:212224230018
+
 **RTL LOGIC FOR FLIPFLOPS**
 ![image](https://github.com/user-attachments/assets/79754d1d-aac3-4c41-a4d9-05df332fb45d)
 
